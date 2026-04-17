@@ -1,0 +1,26 @@
+# Hi, I'm Pranav Krishna 👋
+
+**Full-Stack Engineer | Django & React Specialist** I build scalable web applications and high-efficiency MVPs. Focused on clean code, robust backends, and seamless user experiences.
+
+---
+
+### 💻 Technical Arsenal
+- **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+)
+- **Backend:** Django, Django Rest Framework (DRF), Python
+- **Database & DevOps:** PostgreSQL, SQLite, Git, Railway, Vercel
+- **Research:** Special interest in AI-integrated systems and system architecture.
+
+### 🚀 Featured Projects
+- **Crescendo:** [Brief 1-sentence impact description] | [Live Demo Link]
+- **Magic-Todo:** [Brief 1-sentence impact description] | [Live Demo Link]
+
+### 📊 GitHub Stats
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn:** [Your Link]
+- **Portfolio:** [Coming Soon / Link]
+- **Email:** [Your Professional Email]
