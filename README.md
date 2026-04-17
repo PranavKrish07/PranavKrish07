@@ -15,12 +15,11 @@
 - **Magic-Todo:** [Brief 1-sentence impact description] | [Live Demo Link]
 
 ### 📊 GitHub Stats
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavKrish07&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKrish07&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [Your Link]
-- **Portfolio:** [Coming Soon / Link]
-- **Email:** [Your Professional Email]
+- **LinkedIn:** [https://www.linkedin.com/in/pranavkrish07/]
+- **Email:** [pranavkrishna404@gmail.com]
