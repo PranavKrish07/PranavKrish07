@@ -11,8 +11,8 @@
 - **Research:** Interested in Productivity gamification.
 
 ### 🚀 Featured Projects
-- **Crescendo** 
-- **Magic-Todo** 
+- **Crescendo:** [repo](https://github.com/PranavKrish07/Crescendo) 
+- **Magic-Todo** [repo](https://github.com/PranavKrish07/Magic-Todo)
 
 ### 📊 GitHub Stats
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavKrish07&show_icons=true&theme=radical)
