@@ -11,8 +11,8 @@
 - **Research:** Special interest in AI-integrated systems and system architecture.
 
 ### 🚀 Featured Projects
-- **Crescendo:** [Brief 1-sentence impact description] | [Live Demo Link]
-- **Magic-Todo:** [Brief 1-sentence impact description] | [Live Demo Link]
+- **Crescendo** 
+- **Magic-Todo** 
 
 ### 📊 GitHub Stats
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavKrish07&show_icons=true&theme=radical)
