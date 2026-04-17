@@ -8,7 +8,7 @@
 - **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+)
 - **Backend:** Django, Django Rest Framework (DRF), Python
 - **Database & DevOps:** PostgreSQL, SQLite, Git, Railway, Vercel
-- **Research:** Special interest in AI-integrated systems and system architecture.
+- **Research:** Interested in Productivity gamification.
 
 ### 🚀 Featured Projects
 - **Crescendo** 
