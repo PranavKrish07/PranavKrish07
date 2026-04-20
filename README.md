@@ -17,6 +17,7 @@
 ### 📊 GitHub Stats
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavKrish07&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKrish07&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PranavKrish07)](https://git.io/streak-stats)
 
 ---
 
